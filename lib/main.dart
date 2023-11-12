@@ -104,7 +104,7 @@ class HomeStructure extends StatelessWidget {
 
       bottomNavigationBar: Obx( () =>   // wrapping BottomNavigationBar with "Obx" because we have to use the observable variable from home_controller here on 'currentIndex'
       ClipRRect(
-        borderRadius: BorderRadius.only(topRight: Radius.circular(20),topLeft: Radius.circular(20)),
+        borderRadius: const BorderRadius.only(topRight: Radius.circular(20),topLeft: Radius.circular(20)),
         child: BottomNavigationBar(
           currentIndex: homeController.currentNavIndex.value,  // assigning the initial value of 'currentNavIndex = 0.obs' from home_controller to the current index ie; 'home' screen index
           selectedItemColor: Colors.white,
