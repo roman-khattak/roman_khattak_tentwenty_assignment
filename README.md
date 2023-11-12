@@ -6,8 +6,22 @@ This is a responsive Flutter application that allows users to explore and get de
 
 # Screenshots
 
-Screenshot 1
-Screenshot 2
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/0b047710-bf1c-42d9-b65b-86d8bc91d50c" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/b655c4a0-ef89-48c2-979c-4bfe2ad96ab3" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/75de4ce2-e370-4006-ac64-d762ad9bec3b" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/f4163c23-fc2e-41aa-b1d1-26f02e2fa3d8" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/77d99a30-dd67-40be-8391-e0c15cdc4301" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/0c8e6959-d1fa-4285-ad9d-d3df39bc735e" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/fc9c6c5d-e3c2-4c5a-b6ca-7005a707040f" width="390">
+
+<img src="https://github.com/roman-khattak/roman_khattak_tentwenty_assignment/assets/92599840/18697ab9-f475-4d7d-a957-54b9cd23bb96" width="390">
+
 
 # Demo Video
 
@@ -31,7 +45,7 @@ You can watch the app demo here:
 
 **Clone the Repository:**
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/roman-khattak/roman_khattak_tentwenty_assignment
 
 **Install Flutter:**
 
