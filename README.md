@@ -32,13 +32,17 @@ Here you can watch a short demo of the app.
 # Features
 
 **Detailed Movie Information**: Users can view comprehensive details about each movie.
+
 **Watch Trailers**: Access movie trailers directly from the app.
+
 **Ticket Booking**: Purchase tickets for upcoming shows.
 
 # Technologies Used
 
 **Flutter**: The framework used to develop the mobile app.
+
 **GetX**: State management library for Flutter.
+
 **http**: HTTP client for making API requests.
 
 # Getting Started
