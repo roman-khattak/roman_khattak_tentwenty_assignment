@@ -25,9 +25,9 @@ This is a responsive Flutter application that allows users to explore and get de
 
 # Demo Video
 
-You can watch the app demo here:
+Here you can watch a short demo of the app.
 
-
+[Watch Demo](https://drive.google.com/file/d/1ZNi3a8zE5KdJv-zkbgnwInQ4hBxmBlUv/view?usp=sharing)
 
 # Features
 
@@ -45,7 +45,7 @@ You can watch the app demo here:
 
 **Clone the Repository:**
 
-git clone https://github.com/roman-khattak/roman_khattak_tentwenty_assignment
+git clone https://github.com/roman-khattak/roman_khattak_tentwenty_assignment.git
 
 **Install Flutter:**
 
